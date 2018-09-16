@@ -1,5 +1,10 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  musicians = [];
-  instruments = [];
+
+  var musicians = [];
+  var instruments = [];
+
+  for (var - = 0; i < 5; i++){
+    musicians.push(i);
+  }
 }
