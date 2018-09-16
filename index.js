@@ -1,5 +1,5 @@
 // add solution here
-function iLoveTheBeatles(musicians, instruments){
+function theBeatlesPlay(musicians, instruments){
   musicians = [];
   instruments = [];
 }
