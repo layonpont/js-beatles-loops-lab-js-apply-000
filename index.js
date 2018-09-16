@@ -20,3 +20,7 @@ function johnLennonFacts(facts){
   }
   return results;
 }
+
+function iLoveTheBeatles(number){
+  var array = [];
+}
